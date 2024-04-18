@@ -2,9 +2,17 @@
 ### 각 셰이더 역할 간단 설명
 
 __Basic__             : 캐릭터 및 일반 게임오브젝트
+
+
 __Billboard__         : 빌보드
+
+
 __Bloom__             : Bloom 효과
+
+
 __Combine__           : 기존 렌더링 장면 + 후처리 장면 합치는 용도
+
+
 __Common__            : 공통 CBV , SRV , 함수 모음
 __DepthOnly__         : 깊이값만 저장
 __Normal__            : 전환전 범위 표시용
@@ -29,5 +37,5 @@ __TerrainPixelCS__    : 지형 텍스처 스플래팅
 __TerrainSmoothCS__   : 지형 높이 부드럽게 
 __UI__                : UI 관련
 
-shadow 가 붙은 셰이더는 그림자 관련
+__shadow 가 붙은 셰이더는 그림자 관련__
 
