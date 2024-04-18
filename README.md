@@ -74,6 +74,9 @@ __Skybox__            : 하늘
 __Lake__              : 호수 관련
 
 
+__Terrain__           : 지형 관련
+
+
 
 __GetHeightCS__       : 현재 캐릭터 좌표에 해당하는 높이값 추출
 
