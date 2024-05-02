@@ -11,7 +11,7 @@ __Billboard__         : 빌보드
 
 
 
-__Bloom__             : Bloom 효과
+__Bloom__             : Bloom 효과 -> DOF 에 필요한 Blur 효과
 
 
 
@@ -52,6 +52,10 @@ __SSAOCS__            : SSAO 맵 계산
 
 
 __SSAONormal__        : SSAO 에 필요한 법선맵 계산
+
+
+
+__SSRCS__             : SSR 맵 계산
 
 
 
