@@ -1,5 +1,8 @@
 # DirectX11
 
+[설명 문서](https://github.com/user-attachments/files/18266450/DirectX11.pdf)
+
+
 [포트폴리오 영상](https://youtu.be/1Db5MEnrOJ0)
 
 
