@@ -1,4 +1,11 @@
 # DirectX11
+
+[포트폴리오 영상](https://youtu.be/1Db5MEnrOJ0)
+
+
+[만드는 과정](https://velog.io/@hoya1215/posts)
+
+---
 ### 각 셰이더 역할 간단 설명
 
 
